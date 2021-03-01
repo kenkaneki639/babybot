@@ -1,7 +1,7 @@
 {
-    "botName": "BOT_NAME",
-    "ownerName": "YOUR_NAME",
-    "XteamKey": "YOUR_APIKEY",            
+    "botName": "ZENTA BOT",
+    "ownerName": "ZENTA ID",
+    "XteamKey": "012345",            
     "ownerNumber": "62855xxxxxxxx@s.whatsapp.net",
     "botPrefix": "!",
     "GrupLimitz": "2",
